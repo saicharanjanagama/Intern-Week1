@@ -32,8 +32,8 @@
 
 ## 📸 Preview
 
-[Portfolio Preview](Screenshot1.png)  
-[Portfolio Preview](Screenshot2.png)  
+![Portfolio Preview](Screenshot1.png)  
+![Portfolio Preview](Screenshot2.png)  
 ---
 
 ## 🚀 How to View
