@@ -32,9 +32,8 @@
 
 ## 📸 Preview
 
-![Portfolio Preview](preview.png)  
-*(Add a screenshot of your portfolio and save it as preview.png)*
-
+[Portfolio Preview](Screenshot1.png)  
+[Portfolio Preview](Screenshot2.png)  
 ---
 
 ## 🚀 How to View
