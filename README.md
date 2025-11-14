@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML5-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Internship-Developers%20Arena-green?style=for-the-badge" />
 </p>
 
 <p align="center">
