@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **View Project:** [🔗 LinkedIn Clone](https://linkedin-clone-accd3.web.app/)
+🔗 **View Project:** [🌐 Personal Portfolio (Week 1 Project)](https://saicharanjanagama.github.io/Intern-Week1/)
 
 📸 **Preview:**
 
