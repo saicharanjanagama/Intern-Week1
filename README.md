@@ -13,6 +13,18 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 **View Project:** [🔗 LinkedIn Clone](https://linkedin-clone-accd3.web.app/)
+
+📸 **Preview:**
+
+<p align="center">
+  <img src="Screenshot1.png" width="700" alt="Personal Portfolio Preview"/>
+</p>  
+
+
+---
+
 ## 🎯 Features
 
 - 📄 Semantic and structured HTML5 layout  
@@ -28,12 +40,6 @@
 
 - **HTML5**
 
----
-
-## 📸 Preview
-
-![Portfolio Preview](Screenshot1.png)  
-![Portfolio Preview](Screenshot2.png)  
 ---
 
 ## 🚀 How to View
